@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto+Condensed:wght@700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  margin: 0 10rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(
+    90deg,
+    rgba(249, 249, 253, 1) 0%,
+    rgba(255, 87, 87, 0.04534313725490191) 30%,
+    rgba(255, 254, 200, 0.06775210084033612) 53%,
+    rgba(49, 237, 235, 0.05374649859943981) 75%,
+    rgba(251, 247, 247, 1) 100%
+  );
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+h4 {
+  font-size: 1rem;
+  color: rgb(52, 52, 52);
+}
+h3 {
+  font-size: 1.3rem;
+  color: rgb(82, 86, 16);
+  margin: 2rem 0;
+}
+a {
+  color: rgb(51, 51, 51);
+}
